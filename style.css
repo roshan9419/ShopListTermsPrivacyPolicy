@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color:#000;
+}
+
+#termtitle {
+	text-align: left;
+	font-weight: 500;
+	font-size: 30px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+ #services
+ {
+  background-color: #efefef;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+ }
+ #services .col-md-4
+ {
+  padding: 20px;
+  
+ }
+ #services .col-md-4 h4
+ {
+  padding: 5px;
+  
+ }
+ #services .col-md-4 img
+ {
+  width: 50px;
+  
+ } 
+ #services .col-md-4 p
+ {
+  padding: 5px;
+  text-align: justify;
+  
+ }
