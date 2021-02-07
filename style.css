@@ -4,12 +4,12 @@
 }
 
 body {
-      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-      font-size: 14px;
-      color:#000;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color:#000;
 }
 #titleSection {
-	background-color: #5073de;
+	background-color: #efefef;
 	padding-bottom: 20px;
 	padding-left: 20px;
 	padding-top: 20px;
@@ -21,34 +21,42 @@ body {
 	text-align: left;
 	font-weight: 500;
 	font-size: 30px;
-	color: #fff;
+	color: #5073de;
 }
 
- #services
- {
-  background-color: #efefef;
-  padding-top: 30px;
-  padding-bottom: 30px;
+#services
+{
+	background-color: #efefef;
+	padding-top: 30px;
+	padding-bottom: 30px;
 
- }
- #services .col-md-4
- {
-  padding: 20px;
-  
- }
- #services .col-md-4 h4
- {
-  padding: 5px;
-  
- }
- #services .col-md-4 img
- {
-  width: 50px;
-  
- } 
- #services .col-md-4 p
- {
-  padding: 5px;
-  text-align: justify;
-  
- }
+}
+#services .col-md-4
+{
+	padding: 20px;
+	
+}
+#services .col-md-4 h4
+{
+	padding: 5px;
+	
+}
+#services .col-md-4 img
+{
+	width: 50px;
+	
+} 
+#services .col-md-4 p
+{
+	padding: 5px;
+	text-align: justify;
+	
+}
+
+#read-terms
+{
+	background-color: #efefef;
+	padding: 20px;
+	text-align: justify;
+	margin: 0px;
+}
